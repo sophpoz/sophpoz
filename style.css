@@ -139,10 +139,11 @@ ul{
 	justify-content:flex-end;
 	list-style-type: none;
 	width:80%;
+	margin:10px;
 }
 .initials{
 	font-size:2em;
-	padding:20px;
+	padding-left:20px;
 }
 li{
 	display: inline-block;
@@ -161,7 +162,7 @@ li{
 	padding-top: 0px;
 	font-size: 4em;
 	line-height: 2em;
-	margin-top: -30px;
+	
 
 }
 .intro img{
@@ -169,8 +170,9 @@ li{
     
 }
 .intro h1{
-	font-size: 1.75em;
+	font-size: 1.5em;
 	margin-bottom: 0px;
+	line-height: 90px;
 }
 .wd a, .code a{
 	color:#FE5F55;
